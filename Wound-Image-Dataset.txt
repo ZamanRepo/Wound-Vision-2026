@@ -1,7 +1,0 @@
-Classification Dataset:
-
-https://www.kaggle.com/datasets/ibrahimfateen/wound-classification
-
-Segmentation Dataset
-
-https://www.kaggle.com/datasets/leoscode/wound-segmentation-images
